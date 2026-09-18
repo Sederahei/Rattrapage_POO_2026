@@ -1,6 +1,6 @@
 package dev.sedera.hei;
 
-// File: Customer.java
+
 import java.time.LocalDate;
 
 public class Customer {
